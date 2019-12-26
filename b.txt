@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 shr 1140401314
+=======
+My name is Shr
+Hi Shr
+>>>>>>> c92723f1a782b9b0909f2ce404ec929433ab9c0f
